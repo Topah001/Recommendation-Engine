@@ -1,0 +1,8 @@
+[
+  {"id":"tea","title":"Herbal Tea","category":"drink"},
+  {"id":"coffee","title":"Coffee Beans","category":"drink"},
+  {"id":"mug","title":"Ceramic Mug","category":"home"},
+  {"id":"novel","title":"Mystery Novel","category":"books"},
+  {"id":"journal","title":"Paper Journal","category":"stationery"},
+  {"id":"puzzle","title":"Logic Puzzle","category":"games"}
+]

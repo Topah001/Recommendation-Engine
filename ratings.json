@@ -1,0 +1,7 @@
+{
+  "ava":{"tea":5,"mug":4},
+  "ben":{"tea":5,"coffee":5,"mug":4,"journal":3},
+  "cam":{"tea":4,"coffee":4,"mug":5,"novel":4},
+  "dee":{"novel":5,"journal":5,"puzzle":4},
+  "eli":{"tea":4,"coffee":5,"mug":4,"journal":2}
+}
